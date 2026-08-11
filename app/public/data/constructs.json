@@ -1,0 +1,27 @@
+[
+  {
+    "code": "OSM",
+    "label": "Owned Social Media",
+    "n_links": 4
+  },
+  {
+    "code": "ENG",
+    "label": "Social Media Engagement",
+    "n_links": 4
+  },
+  {
+    "code": "ESM",
+    "label": "Earned Social Media",
+    "n_links": 4
+  },
+  {
+    "code": "BRA",
+    "label": "Brand Associations",
+    "n_links": 4
+  },
+  {
+    "code": "CBB",
+    "label": "Consumer Buying Behavior",
+    "n_links": 4
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "OSM_to_ENG": {
+    "papers_with_theory_data": 91,
+    "papers_total": 91
+  },
+  "OSM_to_BRA": {
+    "papers_with_theory_data": 0,
+    "papers_total": 99
+  },
+  "OSM_to_ESM": {
+    "papers_with_theory_data": 6,
+    "papers_total": 44
+  },
+  "OSM_to_CBB": {
+    "papers_with_theory_data": 6,
+    "papers_total": 96
+  },
+  "ENG_to_BRA": {
+    "papers_with_theory_data": 7,
+    "papers_total": 49
+  },
+  "ENG_to_ESM": {
+    "papers_with_theory_data": 6,
+    "papers_total": 11
+  },
+  "ENG_to_CBB": {
+    "papers_with_theory_data": 6,
+    "papers_total": 79
+  },
+  "BRA_to_CBB": {
+    "papers_with_theory_data": 8,
+    "papers_total": 90
+  },
+  "ESM_to_BRA": {
+    "papers_with_theory_data": 7,
+    "papers_total": 39
+  },
+  "ESM_to_CBB": {
+    "papers_with_theory_data": 6,
+    "papers_total": 85
+  }
+}
